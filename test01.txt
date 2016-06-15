@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-// Questo è un file di prova creato da lorenzo
+﻿// Questo è un file di prova creato da lorenzo
 /* Il primo a modificare questo file è stato....*/
 
 è tutto bellissimo
