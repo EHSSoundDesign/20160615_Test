@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░▄▄▄▄▄▄▄░░░░░░░░░
 ░░░░░░░░░▄▀▀▀░░░░░░░▀▄░░░░░░░
@@ -23,7 +23,7 @@
 /* Il primo a modificare questo file è stato....*/
 
 è tutto bellissimo
-
+titirititi
 
 
 broccolo blu
