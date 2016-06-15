@@ -2,18 +2,4 @@
 // Questo è un file di prova creato da lorenzo
 /* Il primo a modificare questo file è stato....*/
 
-marcello
-=======
-﻿// Questo è un file di prova creato da lorenzo
-/* Il primo a modificare questo file è stato....*/
-
-<<<<<<< HEAD
-porco cane!
-=======
-porco
->>>>>>> 48b8ca8b48a945705c6c0d7813b27fb1630ba2e7
-
-
-
-ziooooo
->>>>>>> 54a434ea4ec8df2971d72a7092a7578b20e94a1d
+è tutto bellissimo
