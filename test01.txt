@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 // Questo è un file di prova creato da lorenzo
 /* Il primo a modificare questo file è stato....*/
 
 marcello
+=======
+﻿// Questo è un file di prova creato da lorenzo
+/* Il primo a modificare questo file è stato....*/
+
+porco
+>>>>>>> 48b8ca8b48a945705c6c0d7813b27fb1630ba2e7
+
+
+
+ziooooo
